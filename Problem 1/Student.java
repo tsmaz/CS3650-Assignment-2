@@ -9,8 +9,8 @@ public class Student
 
       public Student()
       {
-	  this.name = "None";
-	  this.major = "None";
+	  this.name = null;
+	  this.major = null;
 	  this.gpa = 0.0f;
       }
 
